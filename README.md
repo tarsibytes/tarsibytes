@@ -1,4 +1,4 @@
-<h1>Hi There! 👋</h1>
+<h1>Hello World! 👋</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarsila-barros-fritz/)](https://www.linkedin.com/in/tarsila-barros-fritz/)
 
@@ -10,5 +10,5 @@
 - 💡 Always curious and eager to grow  
 
 <div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsila-byte&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsibytes&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
